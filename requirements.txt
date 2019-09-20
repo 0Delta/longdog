@@ -1,0 +1,6 @@
+certifi==2019.9.11
+libsixel-python==0.5.0
+Pillow==6.1.0
+pipenv==2018.11.26
+virtualenv==16.7.5
+virtualenv-clone==0.5.3
