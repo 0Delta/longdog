@@ -7,4 +7,4 @@ RUN apt clean all -y
 RUN easy_install libsixel-python
 COPY ./ /home
 WORKDIR /home
-ENTRYPOINT python longdog.py
+ENTRYPOINT ["python","/home/longdog.py"]

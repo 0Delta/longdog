@@ -12,7 +12,7 @@ $ python3 ./longdog.py
   or 
 
 ```
-$ docker run longdog    # need build and can't use option
+$ docker run 0delta/longdog 
 ```
 
 ## Require
@@ -31,7 +31,6 @@ $ docker run longdog    # need build and can't use option
 
 ```
 $ git clone https://github.com/0Delta/longdog.git
-$ docker build -t longdog ./longdog     # if you need run with docker.
 ```
 
 ## SpecialThanks
